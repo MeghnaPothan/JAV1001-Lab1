@@ -1,4 +1,4 @@
-//Meghanan Aravind A00256942 
+//Meghana Aravind A00256942 
 //Divya Khemani A00254753
 import java.util.Scanner;
 
